@@ -1,0 +1,30 @@
+C:\Tarun Collections\Applications\SimpleOnlineStore\SimpleOnlineStore\bin\Debug\SimpleOnlineStore.exe.config
+C:\Tarun Collections\Applications\SimpleOnlineStore\SimpleOnlineStore\obj\Debug\SimpleOnlineStore.csprojResolveAssemblyReference.cache
+C:\Tarun Collections\Applications\SimpleOnlineStore\SimpleOnlineStore\bin\Debug\SimpleOnlineStore.exe
+C:\Tarun Collections\Applications\SimpleOnlineStore\SimpleOnlineStore\bin\Debug\SimpleOnlineStore.pdb
+C:\Tarun Collections\Applications\SimpleOnlineStore\SimpleOnlineStore\obj\Debug\SimpleOnlineStore.exe
+C:\Tarun Collections\Applications\SimpleOnlineStore\SimpleOnlineStore\obj\Debug\SimpleOnlineStore.pdb
+D:\TarunsBucket\Applications\SimpleOnlineStore\SimpleOnlineStore\obj\Debug\SimpleOnlineStore.csprojResolveAssemblyReference.cache
+D:\TarunsBucket\Applications\SimpleOnlineStore\SimpleOnlineStore\obj\Debug\SimpleOnlineStore.exe
+D:\TarunsBucket\Applications\SimpleOnlineStore\SimpleOnlineStore\obj\Debug\SimpleOnlineStore.pdb
+D:\TarunsBucket\Applications\SimpleOnlineStore\SimpleOnlineStore\bin\Debug\SimpleOnlineStore.exe.config
+D:\TarunsBucket\Applications\SimpleOnlineStore\SimpleOnlineStore\bin\Debug\SimpleOnlineStore.exe
+D:\TarunsBucket\Applications\SimpleOnlineStore\SimpleOnlineStore\bin\Debug\SimpleOnlineStore.pdb
+C:\Tarun Collections\Applications\SimpleOnlineStore1\SimpleOnlineStore\SimpleOnlineStore\bin\Debug\SimpleOnlineStore.exe.config
+C:\Tarun Collections\Applications\SimpleOnlineStore1\SimpleOnlineStore\SimpleOnlineStore\obj\Debug\SimpleOnlineStore.exe
+C:\Tarun Collections\Applications\SimpleOnlineStore1\SimpleOnlineStore\SimpleOnlineStore\obj\Debug\SimpleOnlineStore.pdb
+C:\Tarun Collections\Applications\SimpleOnlineStore1\SimpleOnlineStore\SimpleOnlineStore\bin\Debug\SimpleOnlineStore.exe
+C:\Tarun Collections\Applications\SimpleOnlineStore1\SimpleOnlineStore\SimpleOnlineStore\bin\Debug\SimpleOnlineStore.pdb
+C:\Tarun Collections\Applications\SimpleOnlineStore1\SimpleOnlineStore\SimpleOnlineStore\obj\Debug\SimpleOnlineStore.csprojResolveAssemblyReference.cache
+C:\Tarun Collections\Applications\SimpleOnlineStore\SimpleOnlineStore\SimpleOnlineStore\bin\Debug\SimpleOnlineStore.exe.config
+C:\Tarun Collections\Applications\SimpleOnlineStore\SimpleOnlineStore\SimpleOnlineStore\obj\Debug\SimpleOnlineStore.exe
+C:\Tarun Collections\Applications\SimpleOnlineStore\SimpleOnlineStore\SimpleOnlineStore\obj\Debug\SimpleOnlineStore.pdb
+C:\Tarun Collections\Applications\SimpleOnlineStore\SimpleOnlineStore\SimpleOnlineStore\obj\Debug\SimpleOnlineStore.csprojResolveAssemblyReference.cache
+C:\Tarun Collections\Applications\SimpleOnlineStore\SimpleOnlineStore\SimpleOnlineStore\bin\Debug\SimpleOnlineStore.exe
+C:\Tarun Collections\Applications\SimpleOnlineStore\SimpleOnlineStore\SimpleOnlineStore\bin\Debug\SimpleOnlineStore.pdb
+D:\TarunsBucket\Applications\DemoXUnit - Copy\DemoXUnit - Copy\SimpleOnlineStore\SimpleOnlineStore\SimpleOnlineStore\bin\Debug\SimpleOnlineStore.exe.config
+D:\TarunsBucket\Applications\DemoXUnit - Copy\DemoXUnit - Copy\SimpleOnlineStore\SimpleOnlineStore\SimpleOnlineStore\bin\Debug\SimpleOnlineStore.exe
+D:\TarunsBucket\Applications\DemoXUnit - Copy\DemoXUnit - Copy\SimpleOnlineStore\SimpleOnlineStore\SimpleOnlineStore\bin\Debug\SimpleOnlineStore.pdb
+D:\TarunsBucket\Applications\DemoXUnit - Copy\DemoXUnit - Copy\SimpleOnlineStore\SimpleOnlineStore\SimpleOnlineStore\obj\Debug\SimpleOnlineStore.csprojResolveAssemblyReference.cache
+D:\TarunsBucket\Applications\DemoXUnit - Copy\DemoXUnit - Copy\SimpleOnlineStore\SimpleOnlineStore\SimpleOnlineStore\obj\Debug\SimpleOnlineStore.exe
+D:\TarunsBucket\Applications\DemoXUnit - Copy\DemoXUnit - Copy\SimpleOnlineStore\SimpleOnlineStore\SimpleOnlineStore\obj\Debug\SimpleOnlineStore.pdb
